@@ -1,0 +1,2 @@
+Command to push the changes to the remote repository: git push origin master
+Command to pull the changes from the remote repository: git pull origin master
